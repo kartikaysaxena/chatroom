@@ -21,7 +21,7 @@ Run the following command to install dependencies by opening terminal.
 Next run the following command to get the server up and running
 
 ```bash
-  npm install
+  npm start
 ```
 
 The server would be running at http://localhost:3001/ now.
